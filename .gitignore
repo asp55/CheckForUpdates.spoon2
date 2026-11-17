@@ -1,0 +1,5 @@
+# OS X artifacts
+.DS_Store
+
+# Releases
+Release/*
